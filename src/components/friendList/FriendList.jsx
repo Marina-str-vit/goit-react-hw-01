@@ -1,5 +1,5 @@
 import clsx from 'clsx';
-import FriendListItem from '../FriendListItem/FriendListItem'
+import FriendListItem from '../friendListItem/FriendListItem'
 import css from './FriendList.module.css';
 
 
