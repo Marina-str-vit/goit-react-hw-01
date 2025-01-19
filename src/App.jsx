@@ -1,7 +1,7 @@
-import Header from './components/Header/Header'
-import Profile from './components/Profile/Profile'
-import FriendList from './components/FriendList/FriendList'
-import TransactionHistory from './components/TransactionHistory/TransactionHistory'
+import Header from './components/header/Header'
+import Profile from './components/profile/Profile'
+import FriendList from './components/friendList/FriendList'
+import TransactionHistory from './components/transactionHistory/TransactionHistory'
 import './App.css'
 import userData from './userData.json'
 import friends from './friends.json'
@@ -23,18 +23,5 @@ function App() {
      </>
   )
 };
-
-/**
-  const App = () => {
-	good: 0,
-	neutral: 0,
-	bad: 0
-};
-<Header />
-<Feedback /> 
-<Options />
- *  */ 
-
-
 
 export default App;

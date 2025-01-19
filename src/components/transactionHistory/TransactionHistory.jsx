@@ -27,5 +27,4 @@ export default function TransactionHistory ({ transactions }) {
   );
 };
 
-// export default TransactionHistory;
 

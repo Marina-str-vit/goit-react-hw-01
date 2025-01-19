@@ -21,4 +21,3 @@ export default function FriendList ({ friends }) {
   );
 };
 
-// export default FriendList;
